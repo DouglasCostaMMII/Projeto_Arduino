@@ -15,7 +15,7 @@ Esquema do projeto
 Esquema do projeto
 
 Projeto no Tinkercad
-https://www.tinkercad.com/things/10tCTAiUA2H
+https://www.tinkercad.com/things/j6ESXQDBwwy-surprising-rottis-gogo/editel?tenant=circuits
 
 Experimentar e pesquisar:
 

@@ -29,3 +29,7 @@ O resultado de mover o jumper do pino digital 13 para o pino digital 12.
 Se o resultado de mover o jumper do pino digital 13 ("digitalWrite(LED_BUILTIN, LOW);") para o pino digital 12 ("delay(tempo);") não acender nenhum LED, que alteração no código fonte resolve o problema.
 
 
+
+![projeto](https://github.com/DouglasCostaMMII/Projeto_Medir_de_Luminosidade/assets/117300520/1bde694b-989a-4f04-83f2-7e7258bde853)
+
+
